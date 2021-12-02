@@ -21,4 +21,3 @@ if operator == "*":
 if operator == "/":
     answer = a / b 
     print("Ответ:" + str(answer))
-    
